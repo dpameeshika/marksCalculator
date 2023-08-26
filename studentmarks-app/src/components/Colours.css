@@ -1,0 +1,26 @@
+.header{
+    color:#cd09b3;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+}
+
+.container{
+    background-color:#c2f3e5;
+    border-color: #4c043c;
+    border-width: 50px;
+}
+
+.subject{
+    background-color:#efb4d6;
+    color: #2c0123;
+
+}
+
+.Topic{
+    background-color: #920574;
+}
+.fontcolour{
+    color: #2c0123;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
